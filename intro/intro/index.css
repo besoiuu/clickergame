@@ -1,0 +1,18 @@
+.home-title {
+    text-align: center;
+}
+
+.home-card {
+    width: 20rem;
+    border: 1px solid gray;
+    padding: 1rem;
+    text-align: center;
+    font-size: 18px;
+}
+
+.home-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1rem;
+}
